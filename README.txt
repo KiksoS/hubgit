@@ -1,1 +1,1 @@
-Hola esto es un readme y sirve para cositas
+Hola esto es un readme y sirve para cositas como hacer 
